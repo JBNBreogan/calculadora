@@ -96,5 +96,7 @@ public class MarcoCalculadora extends JFrame {
         btn7.addActionListener(numListener);
         btn8.addActionListener(numListener);
         btn9.addActionListener(numListener);
+
+        btnDiv.addActionListener(numListener);
     }
 }
